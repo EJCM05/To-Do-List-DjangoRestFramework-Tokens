@@ -97,13 +97,6 @@ Para acceder a los endpoints protegidos (cualquier operación excepto `GET` para
 
 `Authorization: Token TU_TOKEN_AQUI`
 
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
-
----
-
 ## 👨‍💻 Autor
 
-Eber Colmenares / EJCM05
-[Tu perfil de GitHub](https://github.com/EJCM05)
+Eber Colmenares / [EJCM05](https://github.com/EJCM05)

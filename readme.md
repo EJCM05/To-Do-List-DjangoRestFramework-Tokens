@@ -2,7 +2,7 @@
 
 ## 🚀 API de Lista de Tareas (To-Do List API) con Django REST Framework
 
-Una API RESTful simple y robusta para gestionar tus tareas diarias, construida con Django y Django REST Framework. Incluye autenticación por tokens, permisos a nivel de objeto y funcionalidades avanzadas de filtrado, búsqueda y ordenamiento.
+Una API RESTful simple y robusta para gestionar tus tareas diarias, construida con Django y Django REST Framework. Incluye autenticación por tokens, permisos a nivel de objeto.
 
 ---
 
